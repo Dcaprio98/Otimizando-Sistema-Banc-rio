@@ -1,0 +1,1 @@
+Otimizando sistema bancário através da aplicação de funções, além da criação de três novas operações, uma para cadastro de usuário, outra para cadastro de conta corrente atrelada a um usuário e por fim uma operação que lista todas as contas existentes.
